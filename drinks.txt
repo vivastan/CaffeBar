@@ -1,0 +1,3 @@
+expense: 20.0 eur
+income: 16.0 eur
+result: -4.0 eur
